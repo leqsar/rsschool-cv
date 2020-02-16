@@ -30,3 +30,20 @@
 - С++ basics
 - HTML/CSS basics
 - SQL
+
+## Experience:
+
+Unfortunately, I have not got any experience in this area
+
+## Education:
+
+- At this moment I am third-year   student of BSUIR (FITU)
+- Codeacademy:
+    - HTML
+    - CSS
+    - SQL
+- Courses in Java
+
+## English level: B1
+
+(11 years in gymnasium + 1 year in the University)
