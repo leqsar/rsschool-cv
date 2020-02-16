@@ -4,7 +4,7 @@
 ## Contacts:
 - [My VK](https://vk.com/id146633339 "VK")
 - [My Instagram](https://www.instagram.com/lek_an_arteg/ "Inst")
-- Сontact number +375447****32
+- Сontact number +375447****62
 - [My GitHub](https://github.com/leqsar "GitHib")
 
 ## Summary:
