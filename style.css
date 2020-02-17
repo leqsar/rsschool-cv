@@ -73,3 +73,24 @@ i {
     margin-top: 20px;
     font-size: 100px;
 }
+
+.skills-container ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.skills-container {
+    text-align: center;
+}
+
+.skills-container li {
+    width: 150px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.skills-container p {
+    margin-top: 20px;
+    font-size: 18px;
+}
